@@ -1,1 +1,1 @@
-CxImage
+CxImage = load(lena.bmp)
