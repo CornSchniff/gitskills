@@ -1,1 +1,1 @@
-CxImage = load(lena.bmp)
+CxImage oilImg = load(lena.bmp)
